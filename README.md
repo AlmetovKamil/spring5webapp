@@ -5,7 +5,7 @@ This repository is for an example application built in my [Spring Framework 5 - 
 The application is a simple Spring Boot 2 / Spring Framework 5 web application. It is used to help students learn how
 to use the Spring Framework. Step by step instructions and detailed explanations can be found within the course.
 
-As you work through the course, please feel free to fork this repository to your out GitHub repo. Most links contain links 
+As you work through the course, please feel free to fork this repository to your out GitHub repo. Most links contain links
 to source code changes. If you encounter a problem you can compare your code to the lesson code. [See this link for help with compares](https://github.com/springframeworkguru/spring5webapp/wiki#getting-an-error-but-cannot-find-what-is-different-from-lesson-source-code)
 
 ## Spring Framework 5: Beginner to Guru Course Wiki
@@ -13,7 +13,7 @@ Got a question about your Spring Framework 5 course? [Checkout these FAQs!](http
 
 ## Getting Your Development Environment Setup
 ### Recommended Versions
- | Recommended | Reference | Notes |
+| Recommended | Reference | Notes |
 | ----------- | --------- | ----- |
 | Oracle Java 8 JDK | [Download](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) | Java 11 is okay, see notes about Java [on the course wiki](https://github.com/springframeworkguru/spring5webapp/wiki/Java-Version) |
 | IntelliJ 2018 or Higher | [Download](https://www.jetbrains.com/idea/download/) | Ultimate Edition recommended. Students can get a free 120 trial license [here](https://github.com/springframeworkguru/spring5webapp/wiki/Which-IDE-to-Use%3F#how-do-i-get-the-free-120-day-trial-to-intellij-ultimate) |
